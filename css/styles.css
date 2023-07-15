@@ -24,8 +24,8 @@ body {
 }
 
 
-.portfolio
-.contacts
+.portfolio,
+.contacts,
 .studio {
     font-weight: 500;
     font-size: 16px;
@@ -35,14 +35,14 @@ body {
     text-decoration: none;
 }
 
-.contacts:hover
-.portfolio:hover
+.contacts:hover,
+.portfolio:hover,
 .studio:hover {
     color: #404bbf;
 }
 
-.portfolio:focus
-.contacts:focus
+.portfolio:focus,
+.contacts:focus,
 .studio:focus {
     color: #404bbf;
 }
@@ -52,7 +52,7 @@ body {
     list-style: none;
 }
 
-.telephone-contact
+.telephone-contact,
 .email-contact {
     font-size: 16px;
     line-height: 1.5;
@@ -61,12 +61,12 @@ body {
     text-decoration: none;
 }
 
-.telephone-contact:hover
+.telephone-contact:hover,
 .email-contact:hover {
     color: #404bbf;
 }
 
-.telephone-contact:focus
+.telephone-contact:focus,
 .email-contact:focus {
     color: #404bbf;
 }
@@ -101,3 +101,49 @@ body {
 .button-order-service:focus {
     background-color: #404BBF;
 }
+
+.person1,
+.third-section-headline,
+.our-team-headline,
+.punctuality-headline,
+.deligence-headline,
+.technologies-headline,
+.strategy-headline {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.specialization-person1,
+.specialization-person2,
+.specialization-person3,
+.specialization-person4,
+.punctuality-text,
+.deligence-text,
+.technologies-text,
+.strategy-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+}
+
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section-headline {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.forth-secrion {
+    background-color: #F4F4FD;
+}
+
