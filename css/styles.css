@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.logo-main {
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -21,6 +21,10 @@ body {
 
 .list {
     list-style: none;
+}
+
+.link {
+    text-decoration: none;
 }
 
 
@@ -147,3 +151,175 @@ body {
     background-color: #F4F4FD;
 }
 
+.footer {
+    background-color: #2e2f42;
+}
+
+.studio-word-footer {
+    color: #f4f4fd;
+}
+
+.portfolio-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.studio-word-decorate-portfolio {
+    color: #2e2f42;
+}
+
+.portfolio-in-portfolio,
+.contacts-portfolio,
+.studio-portfolio {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.contacts-portfolio:hover,
+.portfolio-in-portfolio:hover,
+.studio-portfolio:hover {
+    color: #404bbf;
+}
+
+.portfolio-in-portfolio:focus,
+.contacts-portfolio:focus,
+.studio-portfolio:focus {
+    color: #404bbf;
+}
+
+.button-all {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-all:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-all:focus {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.button-web-site {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-web-site:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-web-site:focus {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.button-app {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-app:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-app:focus {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.button-design {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-design:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-design:focus {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.button-marketing {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button-marketing:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.button-marketing:focus {
+    color: #FFFFFF;
+    background-color: #404BBF ;
+}
+
+.h2-advantages {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.helpful-fitches {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.portfolio-footer {
+    background-color: #2e2f42;
+}
+
+.studio-word-decorate-portfolio {
+    color: #f4f4fd;
+}
