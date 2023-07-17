@@ -1,7 +1,13 @@
+:root {
+    --white: #FFFFFF;
+    --blue: #4d5ae5;
+    --gray: #2e2f42; 
+}
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
+    background-color: var(--white);
 }
 
 .logo {
@@ -11,12 +17,12 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: var(--blue);
     text-decoration: none;
 }
 
 .studio-word-decorate {
-    color: #2e2f42;
+    color: var(--gray);
 }
 
 .list {
@@ -33,7 +39,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(gray);
     text-decoration: none;
 }
 
