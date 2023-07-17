@@ -164,7 +164,7 @@ body {
     color: #f4f4fd;
 }
 
-.info1 {
+.info {
     background-color: #FFFFFF;
 }
 
@@ -188,9 +188,7 @@ body {
     color: #2e2f42;
 }
 
-.portfolio-in-portfolio,
-.contacts-portfolio,
-.studio-portfolio {
+.portfolio-nav-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -199,15 +197,26 @@ body {
     text-decoration: none;
 }
 
-.contacts-portfolio:hover,
-.portfolio-in-portfolio:hover,
-.studio-portfolio:hover {
+.portfolio-nav-item:hover {
     color: #404bbf;
 }
 
-.portfolio-in-portfolio:focus,
-.contacts-portfolio:focus,
-.studio-portfolio:focus {
+.portfolio-nav-item:focus {
+    color: #404bbf;
+}
+
+.general-contact-portfolio {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.general-contact-portfolio:hover {
+    color: #404bbf;
+}
+
+.general-contact-portfolio:focus {
     color: #404bbf;
 }
 
