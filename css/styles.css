@@ -56,21 +56,18 @@ body {
     list-style: none;
 }
 
-.telephone-contact,
-.email-contact {
+.general-contact {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.telephone-contact:hover,
-.email-contact:hover {
+.general-contact:hover {
     color: #404bbf;
 }
 
-.telephone-contact:focus,
-.email-contact:focus {
+.general-contact:focus {
     color: #404bbf;
 }
 
